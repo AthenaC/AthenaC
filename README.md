@@ -9,7 +9,7 @@ I'm **Athena**, a developer who loves turning ideas into interactive expriences.
   🌱 Currently learning: React, Intermediate Python on [Codecademy](https://www.codecademy.com/learn) & React on [Udemy](https://www.udemy.com/course/the-ultimate-react-course/?srsltid=AfmBOopxY4DE_rwTvKL6fhq-NjEZxDlRbRCOlKkZvGYSeQg_nD_H4-JN)  
   👩‍💻 Languages: **HTML/CSS** | **JavaScript** | *(new!)* **Python 3** | *(new!)* **Java**   
   🌟 Open to collaboration, feedback, and new opportunities!  
-  💡 Let's connect and build something great together! [Linkedin](https://www.linkedin.com/in/athena-chang-460813ab/)  
+  💡 Let's connect and build something great together! [Linkedin](https://www.linkedin.com/in/athena-chang/)  
   
 
 <!--
