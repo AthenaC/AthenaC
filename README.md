@@ -6,7 +6,7 @@ I'm **Athena**, a developer who loves turning ideas into interactive expriences.
 
   🏫 **Currently in** [The Marcy Lab School](https://www.marcylabschool.org/)  
   📌 **Currently working on:** Building a Civic Tech Project   
-  🌱 **Currently learning:** Express.js, SQL, PostgreSQL, & Knex.js at The Marcy Lab School 
+  🌱 **Currently learning:** Express.js, SQL, PostgreSQL, & Knex.js at The Marcy Lab School   
   👩‍💻 **Languages:** **HTML/CSS** | **JavaScript** | **Python 3** | **Java** |  **React.js**  
   🌟 Open to collaboration, feedback, and new opportunities!  
   💡 Let's connect and build something great together! [Linkedin](https://www.linkedin.com/in/athena-chang/)  
