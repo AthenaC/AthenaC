@@ -5,7 +5,7 @@
 I'm **Athena**, a developer who loves turning ideas into interactive expriences. My tech journey started with curiosity and a passion for learning, and now I'm diving deep into front-end development, API integrations, and crafting intuitive UI designs. When I'm not working, you might find me on my motorcycle 🏍️ in NYC, reading a great book 📖, or refining my latest project 👾!  
 
   🏫 **Currently in** [The Marcy Lab School](https://www.marcylabschool.org/)  
-  📌 **Currently working on:** Building a Civic Tech Project 
+  📌 **Currently working on:** Building a Civic Tech Project   
   🌱 **Currently learning:** Express.js, SQL, PostgreSQL, & Knex.js at The Marcy Lab School 
   👩‍💻 **Languages:** **HTML/CSS** | **JavaScript** | **Python 3** | **Java** |  **React.js**  
   🌟 Open to collaboration, feedback, and new opportunities!  
